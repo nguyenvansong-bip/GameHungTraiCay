@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "vite": "^6.3.2"
+=======
+    "vite": "^6.3.5"
+>>>>>>> 0ab504a2696a7647c50f09a87cd8b3a5a10b7fc3
   },
   "dependencies": {
     "@mediapipe/hands": "^0.4.1675469240",
